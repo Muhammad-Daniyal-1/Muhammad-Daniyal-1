@@ -4,13 +4,8 @@
   </div>
 <p align="center">
 <a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Javascript+Developer;PHP+Mysqli+Backend+Developer;Frontend+Developer;&center=true&width=500&height=50"></a>
-	
 
-	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
-
-### I'm a Python Developer, Teacher and Researcher!
+### I'm a MERN Stack Developer and Researcher!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
 - 🌱 I’m currently expanding my knowledge in DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
