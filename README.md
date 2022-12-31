@@ -55,7 +55,7 @@
 	
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  width="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="80">
