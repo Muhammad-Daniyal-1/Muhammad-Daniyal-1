@@ -83,7 +83,7 @@
  
 |Stats />|Streak />|Languages />
 |---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadhaxxan&theme=gruvbox)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Daniyal-1&theme=2077)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Daniyal-1&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Daniyal-1&theme=gruvbox)|
  
 	
 ## Personal Projects
