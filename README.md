@@ -97,31 +97,5 @@
  
 [![An image of @muhammaddaniyal1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammaddaniyal1)](https://holopin.io/@muhammaddaniyal1)
 
-//## ⚡️Github Contributions
-	
-//<h4 align="center">Isometric view of contributions in the last year</h4>
-//<p align="center">
-	//<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		//<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
-
-## 🚀Github Metrics
-
-<p align="center">
-	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
-</p>
-	
-## 🐛Github Magic Game
-
-<p align="center">
-  <img src="https://github.com/Muhammad-Daniyal-1/Muhammad-Daniyal-1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
-
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/Muhammad-Daniyal-1/count.svg" />
-</p>
  
 
