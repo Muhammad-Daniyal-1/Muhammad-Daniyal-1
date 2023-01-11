@@ -70,6 +70,23 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
     </td>
 </tr>
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"  width="90">
+    </td>
+</tr>
     
 </table>
 </p>
