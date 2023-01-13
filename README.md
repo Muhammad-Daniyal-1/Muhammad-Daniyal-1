@@ -99,6 +99,3 @@
 
  
 [![An image of @muhammaddaniyal1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammaddaniyal1)](https://holopin.io/@muhammaddaniyal1)
-
- 
-
