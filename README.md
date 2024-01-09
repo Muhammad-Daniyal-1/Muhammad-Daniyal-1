@@ -3,14 +3,14 @@
     <h1> Hi there, I'm Muhammad Daniyal👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Javascript+Developer;PHP+Backend+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer&center=true&width=500&height=50"></a>
 
 ### I'm a MERN Stack Developer and Researcher!
-- 🔭 I’m currently working as MERN Stack Developer @ApexSpace.
+- 🔭 I’m currently working as MERN Stack Developer @Techfye.
 - 🌱 I’m currently expanding my knowledge in Nextjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech person let's get connected  
 
 <h2>Tech Stack</h2>
@@ -39,8 +39,8 @@
     <td align='center' width="200">
          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-    <td align='center' width="200">
-        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+	  <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
@@ -55,7 +55,7 @@
 	
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="90">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="80">
@@ -72,9 +72,6 @@
 </tr>
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="90">
-    </td>
-    <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  width="90">
     </td>
     <td align='center' width="200">
@@ -82,9 +79,6 @@
     </td>
     <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"  width="90">
-    </td>
-    <td align='center' width="200">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"  width="90">
     </td>
 </tr>
     
