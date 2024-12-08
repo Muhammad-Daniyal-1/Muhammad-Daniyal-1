@@ -6,11 +6,11 @@
 <a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer&center=true&width=500&height=50"></a>
 
 ### I'm a MERN Stack Developer and Researcher!
-- 🔭 I’m currently working as MERN Stack Developer @Techfye.
+- 🔭 I’m currently working as Software Engineer @Codeviz Technologies.
 - 🌱 I’m currently expanding my knowledge in Nextjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2025 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech person let's get connected  
 
 <h2>Tech Stack</h2>
