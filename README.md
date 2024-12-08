@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Daniyal👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
 
 ### I'm a MERN Stack Developer and Researcher!
 - 🔭 I’m currently working as Software Engineer @Codeviz Technologies.
