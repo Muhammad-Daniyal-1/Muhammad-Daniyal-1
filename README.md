@@ -7,7 +7,6 @@
 
 ### I'm a MERN Stack Developer and Researcher!
 - 🔭 I’m currently working as Software Engineer @Codeviz Technologies.
-- 🌱 I’m currently expanding my knowledge in Nextjs.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
 - 🥅 2025 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
