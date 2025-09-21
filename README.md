@@ -19,7 +19,6 @@
 <tr>
     <td align='center' width="200">
 		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-        
     </td>
     <td align='center' width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
