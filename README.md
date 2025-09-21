@@ -18,7 +18,8 @@
  
 <tr>
     <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
+		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        
     </td>
     <td align='center' width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
@@ -36,7 +37,7 @@
  
 <tr>
     <td align='center' width="200">
-         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
     </td>
 	  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
@@ -70,6 +71,12 @@
     </td>
 </tr>
 <tr>
+	<td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg"  width="90">
+    </td>
+	<td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  width="90">
+    </td>
     <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  width="90">
     </td>
@@ -78,9 +85,6 @@
     </td>
     <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"  width="90">
-    </td>
-	<td align='center' width="200">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg"  width="90">
     </td>
 </tr>
     
