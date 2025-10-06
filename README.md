@@ -10,7 +10,7 @@
 - 👯 I’m looking to work on impactful MVPs and innovative projects that create real value for users.
 - 📢 Love to teach and inspire students.
 - 🥅 2025 Goals: Build impactful MVPs, launch innovative ideas, and contribute to open source.
-- 💎 💎 Open to collaborating with founders and tech teams on meaningful projects  
+- 💎 Open to collaborating with founders and tech teams on meaningful projects  
 
 <h2>Tech Stack</h2>
 
