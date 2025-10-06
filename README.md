@@ -5,12 +5,12 @@
 <p align="center">
 <a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;ReactJs+Developer;NodeJs+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
 
-### I'm a MERN Stack Developer and Researcher!
-- 🔭 I’m currently working as a Software Engineer.
-- 👯 I am looking for remote job opportunities and remote teams.
+### I'm a React & React Native Full Stack Developer!
+- 🔭 I’m currently working as a Full Stack Developer.
+- 👯 I’m looking to work on impactful MVPs and innovative projects that create real value for users.
 - 📢 Love to teach and inspire students.
-- 🥅 2025 Goals: Contribute more to Open Source projects and execute my Innovative ideas.
-- 💎 If you are a Tech person, let's get connected  
+- 🥅 2025 Goals: Build impactful MVPs, launch innovative ideas, and contribute to open source.
+- 💎 💎 Open to collaborating with founders and tech teams on meaningful projects  
 
 <h2>Tech Stack</h2>
 
