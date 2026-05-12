@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/Muhammad-Daniyal-1"><img src="https://readme-typing-svg.herokuapp.com?lines=ReactJs+Developer;React+Native+Developer;Full+Stack+Developer;MERN+Stack+Developer;Javascript+Developer;Frontend+Developer;NodeJs+Developer&center=true&width=500&height=50"></a>
 
-### I'm a Full Stack Developer! (Typescript, JavaScript, Node.js, and React.js)
+### I'm a Full Stack Developer! (Typescript, JavaScript, Node.js, React.js, and React Native)
 - 🔭 I’m currently working as a Full Stack Developer.
 - 👯 I’m looking to work on impactful MVPs and innovative projects that create real value for users.
 - 📢 Love to teach and inspire students.
