@@ -24,7 +24,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="90">
     </td>
      <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
@@ -60,7 +60,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="80">
     </td>
  	<td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
     </td>
      <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="90">
