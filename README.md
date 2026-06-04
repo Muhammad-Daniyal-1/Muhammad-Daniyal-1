@@ -42,7 +42,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
     </td>
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg">
     </td>
   <td align='center' width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
