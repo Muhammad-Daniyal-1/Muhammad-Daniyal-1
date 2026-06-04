@@ -48,31 +48,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="80">
     </td>
     <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-</tr>
- 
-<tr>
-    <td align='center' width="200">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-    </td>
-     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="90">
-    </td>
-    <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
     </td>
 </tr>
+
 <tr>
- <td align='center' width="200">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg"  width="90">
-    </td>
     <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  width="90">
     </td>
@@ -80,10 +60,31 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original-wordmark.svg"  width="90">
     </td>
     <td align='center' width="200">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  width="90">
     </td>
     <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"  width="90">
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="90">
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="90">
     </td>
 </tr>
 
