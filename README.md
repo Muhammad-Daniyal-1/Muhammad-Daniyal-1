@@ -42,7 +42,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg"  width="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg"  width="170">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="80">
