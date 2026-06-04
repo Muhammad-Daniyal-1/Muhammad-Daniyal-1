@@ -63,7 +63,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="150">
     </td>
      <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="90">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
