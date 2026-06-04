@@ -57,7 +57,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="90">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="80">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="150">
