@@ -15,51 +15,51 @@
 <h2>Tech Stack</h2>
 
 <table width="80%">
- 
+
 <tr>
     <td align='center' width="200">
-		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="90">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="80">
-    </td>
- <td align='center' width="200">
-	 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="90">
-    </td>
-     <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
     </td>
-</tr>
- 
-<tr>
     <td align='center' width="200">
          <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  width="70">
     </td>
-	  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="90">
-    </td>
-  <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
     <td align='center' width="200">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
 </tr>
-	
+
 <tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="80">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
+    </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg"  width="90">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="80">
     </td>
- 	<td align='center' width="200">
+    <td align='center' width="200">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="90">
+    </td>
+    <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
     </td>
      <td align='center' width="200">
@@ -70,10 +70,10 @@
     </td>
 </tr>
 <tr>
-	<td align='center' width="200">
+ <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg"  width="90">
     </td>
-	<td align='center' width="200">
+    <td align='center' width="200">
        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  width="90">
     </td>
     <td align='center' width="200">
@@ -86,7 +86,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"  width="90">
     </td>
 </tr>
-    
+
 </table>
 </p>
 
